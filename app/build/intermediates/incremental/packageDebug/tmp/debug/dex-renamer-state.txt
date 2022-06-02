@@ -1,0 +1,4 @@
+#Sun May 29 23:07:03 KST 2022
+base.0=/Users/jjbae/Desktop/backup/atomy/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
